@@ -1,0 +1,21 @@
+Suppose you are working in a data-driven job role, and you have to answer all these questions.
+1) First, write a code where, by changing just the keyword, we can search for multiple things.
+2) Top 15 countries where the keywords are searched the most, and also create visual representation of it.
+3) A world map needs to be plotted showing the countries that search the keyword the most.
+4) We need to extract the time-wise interest of the keyword — how it trended in different years.
+5) Compare related keywords and plot the graph.
+
+                           
+                           
+                            Pytrends
+                                  
+ Pytrends is an unofficial Python library that allows easy access to Google Trends
+data through Google’s internal API. Since Google doesn’t provide an official
+public API for Trends data, Pytrends acts as a smart wrapper around Google's
+web interface, enabling data analysts and developers to extract trend data for
+various keywords, regions, and timeframes.
+It is especially useful for:
+•Market research
+•Trend forecasting
+•Competitive analysis
+•Keyword research for SEO
